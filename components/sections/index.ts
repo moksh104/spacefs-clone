@@ -8,8 +8,9 @@ export { Navbar } from "./Navbar";
 // ✅ Phase 2
 export { Hero } from "./Hero";
 
-// Phase 3+
-// export { FeaturesSection } from "./FeaturesSection";
+// ✅ Phase 3
+export { FeatureSteps } from "./FeatureSteps";
+// Phase 4+
 // export { DriveSection } from "./DriveSection";
 // export { PricingSection } from "./PricingSection";
 // export { FaqSection } from "./FaqSection";
