@@ -8,6 +8,9 @@ export { Navbar } from "./Navbar";
 // ✅ Phase 2
 export { Hero } from "./Hero";
 
+// ✅ Phase 2.5 — Finder Window Demo
+export { FinderDemo } from "./FinderDemo";
+
 // ✅ Phase 3
 export { FeatureSteps } from "./FeatureSteps";
 
